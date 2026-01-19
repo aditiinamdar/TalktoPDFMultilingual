@@ -3,6 +3,8 @@
 **Interact with your PDF documents like never before.**  
 Chat, Talk, and Quiz yourself on your document's content in multiple languages.
 
+### 🌐 [Live Demo](https://talk2pdfmultilingual.streamlit.app/)
+
 ## 🚀 Key Features
 
 - **💬 Chat Mode**: Ask questions and get instant, context-aware answers from your PDFs using RAG (Retrieval Augmented Generation).
@@ -62,3 +64,4 @@ This project leverages the latest in Generative AI and web technologies:
    - **Chat Stream**: Type questions to chat with your document.
    - **Voice Interface**: Upload an audio question (.wav/.mp3) to talk to your document.
    - **Knowledge Check**: Click "Generate New" to create a quiz based on the PDF content.
+
