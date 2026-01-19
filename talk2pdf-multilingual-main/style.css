@@ -1,0 +1,30 @@
+/* 2026 Futuristic Font Style */
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600&display=swap');
+
+/* Apply globally */
+html,
+body,
+[class*="css"] {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Headings in Space Grotesk for that "Tech 2026" look */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.stMarkdown h1,
+.stMarkdown h2,
+.stMarkdown h3 {
+    font-family: 'Space Grotesk', sans-serif !important;
+    letter-spacing: -0.02em;
+}
+
+/* Make headers pop */
+/* Make headers pop */
+h1 {
+    font-weight: 700 !important;
+    /* Gradient removed for visibility */
+}
